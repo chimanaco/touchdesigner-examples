@@ -1,0 +1,8 @@
+
+# TouchDesigner
+Backup/*
+*/**/*.*.toe
+
+# Recording
+*.tif
+*.mov
